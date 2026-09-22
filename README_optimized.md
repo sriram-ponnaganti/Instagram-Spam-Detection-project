@@ -10,6 +10,17 @@
 An AI-powered **Instagram spam comment detection system** built with Python and Streamlit. The application uses **Natural Language Processing (NLP)** and Machine Learning to analyze comments and classify them as **SPAM** or **NOT SPAM**, while providing a confidence score for the prediction.
 
 ---
+<p align="center">
+  <img src="stock1.png" alt="SpamGuard AI" width="800">
+</p>
+
+<p align="center">
+  <img src="stock2.png" alt="SpamGuard AI" width="800">
+</p>
+
+<p align="center">
+  <img src="stock3.png" alt="SpamGuard AI" width="800">
+</p>
 
 ## ✨ Features
 
