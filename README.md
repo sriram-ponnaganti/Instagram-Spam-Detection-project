@@ -1,4 +1,11 @@
+
 An AI-powered Instagram spam comment detection system built with Python and Streamlit. The application uses Natural Language Processing and Machine Learning to analyze comments and identify whether they are SPAM or NOT SPAM, along with a confidence score.
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
+![NLP](https://img.shields.io/badge/NLP-Text%20Classification-purple?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Library-NumPy-013243?style=for-the-badge&logo=numpy)
 
 <p align="center"> <img src="spam1.png" alt="Instagram Spam Detection Dashboard" width="800"> </p> <p align="center"> <img src="spam2.png" alt="Spam Detection Analysis" width="800"> </p> <p align="center"> <img src="spam3.png" alt="Spam Prediction Result" width="800"> </p>
 ✨ Features
