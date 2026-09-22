@@ -11,15 +11,18 @@ An AI-powered **Instagram spam comment detection system** built with Python and 
 
 ---
 <p align="center">
-  <img src="stock1.png" alt="SpamGuard AI" width="800">
+  <img src="spam4.png" alt="SpamGuard AI" width="800">
+</p>
+<p align="center">
+  <img src="spam5.png" alt="SpamGuard AI" width="800">
 </p>
 
 <p align="center">
-  <img src="stock2.png" alt="SpamGuard AI" width="800">
+  <img src="spam3.png" alt="SpamGuard AI" width="800">
 </p>
 
 <p align="center">
-  <img src="stock3.png" alt="SpamGuard AI" width="800">
+  <img src="spam2.png" alt="SpamGuard AI" width="800">
 </p>
 
 ## ✨ Features
