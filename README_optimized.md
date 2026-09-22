@@ -129,7 +129,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/instagram-spam-detection.git
+git clone https://github.com/sriram-ponnaganti/instagram-spam-detection.git
 cd instagram-spam-detection
 ```
 
@@ -223,7 +223,7 @@ Screenshots of the application dashboard and prediction results will be added he
 🚀 **Try the deployed application:**
 
 ```text
-https://YOUR-APP-NAME.streamlit.app/
+https://instagram-spam-detection-project-e.streamlit.app/
 ```
 
 > Replace the URL above with your actual Streamlit deployment URL.
